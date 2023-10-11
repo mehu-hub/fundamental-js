@@ -2,7 +2,7 @@
 var price = 25;
 
 // string type variable
-var name = 'Mehedi Hasan';
+var name = 'Mehedi Hassan';
 
 // boolean type variable
 var isHappy = false;
